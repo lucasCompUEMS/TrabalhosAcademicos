@@ -2,8 +2,8 @@
    Descricao: Fazer jogo de Atari para que o usuario decida a velocidade do canhao
     velocidade das teclas digitada e etc. O jogo acaba quado usuario destruir 50 misseis
     ou o missil atingir o chao ou o canhao.
-  Programadores: Lucas da Rocha Silva, Lucas Roberto Raineri Oliveira, Kaledi da Silva Dias
-  RGM: 38345, 38346, 38343
+  Programadores: Lucas da Rocha Silva
+  RGM: 38345,
   Data da ultima modificacao: 20/05/2018 */
 
 /* Dica de como compilar:
